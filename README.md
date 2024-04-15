@@ -18,7 +18,7 @@ npm start
 
 Si jamais l'application décide de ne pas fonctionner de votre coté, une vidéo démo est mise en place ci-dessous
 
-{VIDEO DEMO ICI}
+https://github.com/Projets-Next-U-Jordan/meteo_rn/assets/55529456/bb81b18c-1895-480c-8ebc-e9b9d87b7ed1
 
 ---
 
